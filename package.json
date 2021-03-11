@@ -1,0 +1,26 @@
+{
+  "name": "Jenkins-practice",
+  "version": "1.0.0",
+  "description": "This is a practice project to learn how to use Jenkins as a CI/CD pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senzxita/Jenkins-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senzxita/Jenkins-practice/issues"
+  },
+  "homepage": "https://github.com/senzxita/Jenkins-practice#readme",
+  "devDependencies": {
+    "mocha": "^8.3.1",
+    "should": "^13.2.3",
+    "supertest": "^6.1.3"
+  }
+}
